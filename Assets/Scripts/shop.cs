@@ -22,4 +22,9 @@ public class shop : MonoBehaviour {
         Debug.Log("Mssile Launcher selected");
         buildManager.setTurretTobuild(buildManager.missileLauncherPrefab);
     }
+
+    public void jesuschrist()
+    {
+        shut up liam;
+    }
 }
